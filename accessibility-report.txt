@@ -1,0 +1,26 @@
+HOSPITAL APPOINTMENT WEBSITE – ACCESSIBILITY AUDIT
+
+Before Refactoring:
+Performance: 100
+Accessibility: 54
+Best Practices: 96
+SEO: 90
+
+After Refactoring:
+Performance: 100
+Accessibility: 100
+Best Practices: 96
+SEO: 100
+
+Improvements:
+1. Replaced non-semantic HTML elements with appropriate HTML5 semantic elements.
+2. Added proper labels to all form controls.
+3. Used appropriate input types.
+4. Added required field validation.
+5. Improved keyboard accessibility.
+6. Improved touch target size and spacing.
+
+Accessibility Testing:
+Tool: Google Chrome Lighthouse
+
+Keyboard navigation and screen-reader testing should be recorded separately after performing those tests.
